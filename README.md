@@ -1,4 +1,4 @@
-# data-cleaning
+# Data-Cleaning
 # Prime Video – Data Cleaning
 
 This project focuses on cleaning and preparing a dataset of Prime Video titles for analysis. The raw data includes metadata about movies and TV shows, such as title, release year, duration, country, and genre. Cleaning this data helps make it ready for visualizations, dashboards, or further analysis.
